@@ -1,0 +1,29 @@
+{
+  "name": "lugtebot",
+  "version": "1.0.0",
+  "description": "Private Discord bot with many utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmellyB3lly/LugteBOT.git"
+  },
+  "keywords": [
+    "Bot",
+    "Discord"
+  ],
+  "author": "SmellyBelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmellyB3lly/LugteBOT/issues"
+  },
+  "homepage": "https://github.com/SmellyB3lly/LugteBOT#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
